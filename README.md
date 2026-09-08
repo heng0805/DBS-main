@@ -95,8 +95,8 @@ Results are reported as mean ± standard deviation over 3 independent runs with 
 
 | Task      | Spearman (ρ) ↑ | R-L2 ↓      |
 | --------- | ---------------- | ------------ |
-| TES Score | 0.640 ± 0.015   | 1.45 ± 0.08 |
-| PCS Score | 0.769 ± 0.012   | 1.03 ± 0.05 |
+| TES Score | 0.640 ± 0.017   | 1.45 ± 0.08 |
+| PCS Score | 0.769 ± 0.029   | 1.03 ± 0.05 |
 
 ### Runtime
 
